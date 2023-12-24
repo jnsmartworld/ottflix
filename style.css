@@ -139,7 +139,7 @@ section {
 }
 
 .swiper-slide:nth-child(1n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url(https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2929f534-3bc3-4cbd-b84c-80df863d5a38)
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://www.themoviedb.org/t/p/w600_and_h900_bestv2/EQmoiwsUKbc1K6TDZlJKEJvZKW.jpg")
       no-repeat 50% 50% / cover;
 }
 
@@ -164,22 +164,22 @@ section {
 }
 
 .swiper-slide:nth-child(6n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2ad44f5d-2215-4416-9c9b-2bae3be51a67")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://www.themoviedb.org/t/p/original/nlu9WbcetNFRGXXPWITr30ob7W6.jpg")
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(7n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/aa8fe914-741f-4bf4-ad4a-24f19d1f4178")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kPRb1mbVHGop0egQ7153y0lhzGL.jpg")
       no-repeat 50% 50% / cover;
 }
 
 .swiper-slide:nth-child(8n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/d5f10b4f-7d34-45bd-bb5f-5f1530c2ac1c")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg")
       no-repeat 50% 0% / cover;
 }
 
 .swiper-slide:nth-child(9n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7cbac263-7c55-4428-908e-31018dc1bce3")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg")
       no-repeat 50% 50% / cover;
 }
 
