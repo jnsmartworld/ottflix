@@ -144,7 +144,7 @@ section {
 }
 
 .swiper-slide:nth-child(2n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/b6f5eb64-887c-43b1-aaba-d52a4c59a379")
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Bv6cN7LD0MOTDRWSOo0IGH7wco.jpg")
       no-repeat 50% 50% / cover;
 }
 
