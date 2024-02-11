@@ -22,7 +22,7 @@ default width = 800/5 = 160px;
 */
 
 .accordion {
-	width: 800px; height: 320px;
+	width: 1000px; height: 320px;
 	overflow: hidden;
 	margin: 100px auto;
 	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
